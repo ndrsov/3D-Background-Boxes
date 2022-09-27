@@ -55,7 +55,7 @@ body {
   height: 600px;
 }
 
-.boxer.big .box {
+.boxes.big .box {
   transform: rotateZ(360deg);
 }
 
